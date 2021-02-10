@@ -11,7 +11,7 @@
 * 电报频道：[@LexburnerRIP](https://t.me/LexburnerRIP)<br><br>
 
 
-
+![](http://ghproxy.com/https://github.com/Xiaozhan-sb/lexburner.rip/raw/main/assets/img/5.jpg)
 
 ## LexBurner 信息：
 
