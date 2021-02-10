@@ -11,7 +11,7 @@
 
 ## LexBurner 信息：
 ![](0.jpg)<br><br>
-*本人姓名：周宇翔<br><br>
+本人姓名：周宇翔<br><br>
 生日：1992年11月22日<br><br>
 地区：江苏省南京市秦淮河<br><br>
 老家：江苏淮安市<br><br>
@@ -20,7 +20,7 @@
 手机：13391279550 上海电信<br><br>
 QQ：226177524<br><br>
 微博：https://www.weibo.com/u/1893347753<br><br>
-哔哩哔哩：https://b23.tv/BYvKnq *<br><br>
+哔哩哔哩：https://b23.tv/BYvKnq <br><br>
 ![](1.jpg)<br><br><br>
 *亲父<br><br>
 姓名：周锋<br><br>
