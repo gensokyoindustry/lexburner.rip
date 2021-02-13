@@ -6,7 +6,7 @@
 
 *ps:源站已经被强制下线，缅怀三分钟。*<br>
 [*生而为人，我很抱歉。*](main/assets/1.md) <br>
-![](main/assets/img/0h.JPG)
+![](https://raw.githubusercontent.com/Xiaozhan-sb/lexburner.rip/main/assets/img/0h.JPG)
 
 ## lex肖战说 <br>
 
