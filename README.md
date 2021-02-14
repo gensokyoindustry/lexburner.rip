@@ -1,6 +1,6 @@
 # lexburner.rip
 
-## 更新：[https://github.com/Xiaozhan-sb/lexburner.rip/blob/main/assets/others/Modified.srt](欢迎一起修改Lex直播字幕，向我提交Pull Requests或者issues)
+## 更新：[https://github.com/Xiaozhan-sb/lexburner.rip/blob/main/assets/others/Modified.srt](欢迎一起修改Lex直播字幕，向我提交PullRequests或者issues)
 
 ## wget -m -e robots=off -k -E "https://lexburner.rip"
 
