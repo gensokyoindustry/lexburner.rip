@@ -1,5 +1,7 @@
 # lexburner.rip
 
+## 更新：[欢迎一起修改Lex直播字幕，向我提交Pull Requests或者issues](https://github.com/Xiaozhan-sb/lexburner.rip/blob/main/assets/others/Modified.srt)
+
 ## wget -m -e robots=off -k -E "https://lexburner.rip"
 
 ## You Can Fork it Easily and create your GitPages in "Settings".
