@@ -13,14 +13,6 @@ https://www.bilibili.com/video/BV1Go4y1d7RE
 [*生而为人，我很抱歉。*](main/assets/1.md) <br>
 ![](https://raw.githubusercontent.com/Xiaozhan-sb/lexburner.rip/main/assets/img/0h.JPG)
 
-## lex肖战说 <br>
-
-XZ有很多无脑护主的女粉，<br>lex也有很多无脑护主的女粉； <br>
-
-XZ的事闹大了之后各路人马纷纷混入其中找乐子，<br>lex的事闹大了之后也有各路人马纷纷混入其中找乐子；<br>
-
-XZ靠耽美发家，<br>火了之后他的粉丝冲掉了耽美大站，<br>lex靠二刺螈发家，<br>火了之后他的女拳粉丝冲掉了二刺螈大作。 <br>
-
 ### 227 之后是 210：他们依然没有改变<br>
 
 
