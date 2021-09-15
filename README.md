@@ -10,6 +10,7 @@ https://www.bilibili.com/video/BV1Go4y1d7RE
 ## You Can Fork it Easily and create your GitPages in "Settings".
 
 *ps:源站已经被强制下线，缅怀三分钟。*<br>
+本站已關閉。
 [*生而为人，我很抱歉。*](main/assets/1.md) <br>
 ![](https://raw.githubusercontent.com/Xiaozhan-sb/lexburner.rip/main/assets/img/0h.JPG)
 
