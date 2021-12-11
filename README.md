@@ -1,5 +1,7 @@
+![image.png](https://s2.loli.net/2021/12/12/SR1Px4pGZm3OJdC.png)
 # lexburner.rip
-## WE ARE JUST BACK.
+## WE ARE JUST BACK. AS LEX BACK AT 12.09
+
 ![image.png](https://s2.loli.net/2021/12/12/TEAWQajpo2cqbXJ.png)
 
 ## 更新：[欢迎一起修改Lex直播字幕，向我提交Pull Requests或者issues](https://github.com/Xiaozhan-sb/lexburner.rip/blob/main/assets/others/Modified.srt)
